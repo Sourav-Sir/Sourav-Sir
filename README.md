@@ -1,4 +1,4 @@
-![logo](https://github.com/Sourav-Sir/Sourav-Sir/blob/main/bd1e5c2457278a37313c55ce8c887aa3.jpg)
+
 <h1 align="center">Hi 👋, I'm Sourav Chakraborty</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
