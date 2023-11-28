@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html Css Javascript Angular NodeJs MongoDB React Java Python**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sourav-chakraborty-sk05032006](www.linkedin.com/in/sourav-chakraborty-sk05032006)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sourav-chakraborty-sk05032006]([www.linkedin.com/in/sourav-chakraborty-sk05032006](https://www.linkedin.com/in/sourav-chakraborty-881b56216/))
 
 - 💬 Ask me about **Website designing**
 
