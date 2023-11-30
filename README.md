@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Html Css Javascript Angular NodeJs MongoDB React Java Python**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sourav-chakraborty-sk05032006](https://www.linkedin.com/in/sourav-chakraborty-881b56216/)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Sourav-Sir?tab=repositories)
 
 - 💬 Ask me about **Website designing**
 
 - 📫 How to reach me **souravchh456@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aUFI3-MaqNa2qQFi2unZc4kFqqWu8yJd/view?usp=sharing](https://drive.google.com/file/d/1aUFI3-MaqNa2qQFi2unZc4kFqqWu8yJd/view?usp=sharing)
+- 📄 Know about my experiences 👉 [Experiences](https://drive.google.com/file/d/1aUFI3-MaqNa2qQFi2unZc4kFqqWu8yJd/view?usp=sharing)
 
 - ⚡ Fun fact **"Did you know that the term 'bug' in computer programming originated in 1947 when Grace Hopper found an actual moth causing a malfunction in the Harvard Mark II computer? She removed the moth and taped it into the logbook, coining the term 'debugging' for fixing code errors. So, the next time you find a bug in your code, you can blame it on actual bugs!"**
 
